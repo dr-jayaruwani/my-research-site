@@ -1,0 +1,37 @@
+---
+title: "Dr. Jayaruwani Fernando - Research & Scholarship"
+format: html
+---
+
+## About Me
+
+I am a **Senior Lecturer in Agricultural Engineering** at Rajarata University of Sri Lanka, with over 13 years of experience. My research focuses on agricultural machinery, postharvest technology, and sustainable drying systems.
+
+[🔗 Google Scholar](https://scholar.google.com/citations?user=oKLbNdEAAAAJ) | [ORCID](https://orcid.org/0000-0003-2292-547X) | [LinkedIn](https://www.linkedin.com/in/jayaruwani-fernando-89310a49/)
+
+---
+
+## Research Focus
+
+- Agricultural Machinery & Mechanization
+- Postharvest Technology & Drying Systems  
+- Heat Pump Drying Optimization
+- IoT-enabled Control Systems
+
+---
+
+## Key Awards
+
+- Outstanding Doctoral Research Award – Gold Medal (2025)
+- Vice Chancellor's Award – Highest Citations (2024)
+- Vice Chancellor's Award – Most Outstanding Young Researcher (2022)
+
+---
+
+## Patent
+
+- **Granted:** Bund plastering & canal making machine (Patent: 20513, 2022)
+
+---
+
+[View my complete CV →](cv.html)

@@ -1,0 +1,100 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+# Dr. Jayaruwani Fernando
+
+**Senior Lecturer in Agricultural Engineering**  
+Rajarata University of Sri Lanka
+
+[📥 Download Full CV (PDF)](files/cv.pdf)
+
+---
+
+## Education
+
+| Year | Degree | Institution |
+|------|--------|-------------|
+| 2022 | **PhD** in Agricultural & Biosystems Engineering | University of Peradeniya |
+| 2017 | **MS** in Agricultural & Biosystems Engineering | Iowa State University, USA |
+| 2015 | **MPhil** in Agricultural & Biosystems Engineering | University of Peradeniya |
+| 2011 | **BSc** in Agriculture (Second Class Upper) | Rajarata University |
+
+---
+
+## Academic Appointments
+
+| Period | Position | Institution |
+|--------|----------|-------------|
+| 2017–Present | **Senior Lecturer** | Rajarata University |
+| 2012–2017 | **Lecturer** | Rajarata University |
+| 2015–2017 | **Graduate Research Assistant** | Iowa State University, USA |
+
+---
+
+## Journal Publications (23 total)
+
+### Q1 Journals
+
+1. **Fernando, A.J.** (2026). Artificial intelligence techniques for microwave drying of agricultural products. *Applied Food Research*, 6(1), 101590. [DOI](https://doi.org/10.1016/j.afres.2025.101590) **(IF: 6.2)**
+
+2. **Fernando, A.J.** & Rosentrater, K.A. (2023). Optimal designs of air-source heat pump dryers. *Food Engineering Reviews*, 15(2), 261–275. [DOI](https://doi.org/10.1007/s12393-023-09337-3) **(IF: 7.6)**
+
+3. **Fernando, A.J.** & Amaratunga, K.S.P. (2022). Far-infrared radiation for chili pepper. *J Sci Food Agric*, 102(9), 3781–3787. [DOI](https://doi.org/10.1002/jsfa.11726) **(IF: 3.5)**
+
+### Q2 Journals
+
+4. **Fernando, A.J.** & Rathnayake, R.M.S. (2025). Far-infrared drying of cassava. *Journal of the ASABE*, 68(5). [DOI](https://doi.org/10.13031/ja.16287) **(IF: 1.0)**
+
+5. **Fernando, A.J.**, Gunathunga, C., Brumm, T., & Amaratunga, S. (2021). Drying turmeric using far-infrared radiation. *Journal of Food Process Engineering*, 44(9). [DOI](https://doi.org/10.1111/jfpe.13780) **(IF: 2.9)**
+
+6. **Fernando, A.J.**, Amaratunga, K.S.P., Madushanka, H.T.N., & Jayaweera, H.R.Y.S. (2021). Drying performance of coffee. *J of the ASABE*, 64(4), 1237–1245. [DOI](https://doi.org/10.13031/trans.14268) **(IF: 1.0)**
+
+### Book Chapter
+
+**Fernando, A.J.** (2026). Technological Transitions in Thermal Drying. In: *IoT and AI in Agriculture*. Springer, pp. 311–341.
+
+[🔗 Google Scholar](https://scholar.google.com/citations?user=oKLbNdEAAAAJ)
+
+---
+
+## Patents
+
+| Status | Patent |
+|--------|--------|
+| **Granted** | Pull-type bund plastering & canal making machine (20513/2022) |
+| **Filed** | Computer program for heat pump drying design (22159) |
+| **Filed** | Turmeric drying process (22158) |
+
+---
+
+## Awards & Honors
+
+- **Outstanding Doctoral Research Award – Gold Medal** (2025)
+- **Best Scientific Paper Award** (2025)
+- **Vice Chancellor's Award – Highest Citations** (2024)
+- **Vice Chancellor's Award – Highest h-Index** (2024)
+- **Vice Chancellor's Award – Most Outstanding Young Researcher** (2022)
+- **Top Ten Researcher Award** (2022)
+- **GEAPS Iowa Chapter Scholarship** (2017)
+- **Gamma Sigma Delta, Alpha Epsilon, Epsilon Pi Tau** (2017)
+
+---
+
+## Research Supervision
+
+- **Postgraduate:** 1 M.Sc. student (Machine Learning for drying kinetics)
+- **Undergraduate:** 23 projects (2013–2025)
+
+---
+
+## Connect
+
+- [Google Scholar](https://scholar.google.com/citations?user=oKLbNdEAAAAJ)
+- [ORCID](https://orcid.org/0000-0003-2292-547X)
+- [LinkedIn](https://www.linkedin.com/in/jayaruwani-fernando-89310a49/)
+
+---
+
+*Complete CV with all 23 publications available as PDF download.*
