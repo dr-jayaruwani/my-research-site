@@ -1,6 +1,4 @@
----
-title: "Dr. Jayaruwani Fernando - Research & Scholarship"
-format: html
+--- title: "Dr. Jayaruwani Fernando - Research & Scholarship" include-in-header: text: | <meta name="google-site-verification" content="UtUiOLPOW8uolVxjq_6Qox7rnJfIODmKCpN7YBvW8nk" />
 ---
 
 ## About Me
