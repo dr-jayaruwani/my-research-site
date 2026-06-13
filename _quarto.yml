@@ -1,4 +1,10 @@
+cat > _quarto.yml << 'EOF'
+project:
+  type: website
+  output-dir: _site
+
 website:
+  title: "Dr. Jayaruwani Fernando - Research & Scholarship"
   navbar:
     left:
       - href: index.qmd
@@ -7,3 +13,10 @@ website:
         text: Publications
       - href: cv.qmd
         text: CV
+  
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+EOF
