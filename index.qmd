@@ -1,5 +1,6 @@
 --- title: "Dr. Jayaruwani Fernando - Research & Scholarship" include-in-header: text: | <meta name="google-site-verification" content="UtUiOLPOW8uolVxjq_6Qox7rnJfIODmKCpN7YBvW8nk" />
 ---
+<!-- trigger rebuild -->
 
 ## About Me
 ![](profile.png){width="200" style="border-radius: 50%;"}
