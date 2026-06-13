@@ -4,7 +4,7 @@
 ## About Me
 ![](profile.png){width="200" style="border-radius: 50%;"}
 
-I am a **Senior Lecturer in Agricultural Engineering** at Rajarata University of Sri Lanka, with over 13 years of experience. My research focuses on agricultural machinery, postharvest technology, and sustainable drying systems.
+I am a Senior Lecturer in Agricultural Engineering, specializing in Agricultural and Biosystems Engineering with a strong focus on Postharvest Technology. My teaching and research focus on applying engineering principles, process optimization, and emerging digital technologies to improve agricultural processing, storage, and controlled-environment systems. My work spans drying technologies, LED-based storage, HVAC applications, AI-assisted process optimization, digital twin technologies, and LEAN manufacturing, with the broader goal of supporting sustainable agriculture, reducing postharvest losses, and contributing to global food security.
 
 [🔗 Google Scholar](https://scholar.google.com/citations?user=oKLbNdEAAAAJ) | [ORCID](https://orcid.org/0000-0003-2292-547X) | [LinkedIn](https://www.linkedin.com/in/jayaruwani-fernando-89310a49/)
 
