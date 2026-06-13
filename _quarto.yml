@@ -1,4 +1,3 @@
-cat > _quarto.yml << 'EOF'
 project:
   type: website
   output-dir: _site
@@ -13,10 +12,8 @@ website:
         text: Publications
       - href: cv.qmd
         text: CV
-  
+
 format:
   html:
     theme: flatly
     css: styles.css
-    toc: true
-EOF
