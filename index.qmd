@@ -2,6 +2,7 @@
 ---
 
 ## About Me
+![](profile.jpg){width="200" style="border-radius: 50%;"}
 
 I am a **Senior Lecturer in Agricultural Engineering** at Rajarata University of Sri Lanka, with over 13 years of experience. My research focuses on agricultural machinery, postharvest technology, and sustainable drying systems.
 
