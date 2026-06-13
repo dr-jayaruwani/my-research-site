@@ -3,5 +3,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: publications.qmd
+        text: Publications
       - href: cv.qmd
         text: CV
