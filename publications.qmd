@@ -1,0 +1,28 @@
+---
+title: "Publications & Research"
+format: html
+---
+
+## Journal Publications (23 total)
+
+### Q1 Journals
+
+1. **Fernando, A.J.** (2026). Artificial intelligence techniques for microwave drying of agricultural products. *Applied Food Research*, 6(1), 101590. [DOI](https://doi.org/10.1016/j.afres.2025.101590)
+
+2. **Fernando, A.J.** & Rosentrater, K.A. (2023). Optimal designs of air-source heat pump dryers. *Food Engineering Reviews*, 15(2), 261–275. [DOI](https://doi.org/10.1007/s12393-023-09337-3)
+
+3. **Fernando, A.J.** & Amaratunga, K.S.P. (2022). Far-infrared radiation for chili pepper. *J Sci Food Agric*, 102(9), 3781–3787. [DOI](https://doi.org/10.1002/jsfa.11726)
+
+### Q2 Journals
+
+4. **Fernando, A.J.** & Rathnayake, R.M.S. (2025). Far-infrared drying of cassava. *Journal of the ASABE*, 68(5). [DOI](https://doi.org/10.13031/ja.16287)
+
+5. **Fernando, A.J.**, Gunathunga, C., Brumm, T., & Amaratunga, S. (2021). Drying turmeric using far-infrared radiation. *Journal of Food Process Engineering*, 44(9). [DOI](https://doi.org/10.1111/jfpe.13780)
+
+6. **Fernando, A.J.**, Amaratunga, K.S.P., Madushanka, H.T.N., & Jayaweera, H.R.Y.S. (2021). Drying performance of coffee. *J of the ASABE*, 64(4), 1237–1245. [DOI](https://doi.org/10.13031/trans.14268)
+
+### Book Chapter
+
+**Fernando, A.J.** (2026). Technological Transitions in Thermal Drying. In: *IoT and AI in Agriculture*. Springer, pp. 311–341.
+
+[🔗 View all on Google Scholar](https://scholar.google.com/citations?user=oKLbNdEAAAAJ)
