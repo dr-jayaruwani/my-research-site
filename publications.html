@@ -8,6 +8,63 @@
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="site_libs/quarto-html/quarto.css">
   <link rel="stylesheet" href="site_libs/bootstrap/bootstrap.min.css">
+  <style>
+    .publication-list {
+      list-style: none;
+      padding-left: 0;
+    }
+    .publication-item {
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #e1e4e8;
+    }
+    .publication-item:last-child {
+      border-bottom: none;
+    }
+    .pub-authors {
+      font-weight: normal;
+      margin-bottom: 0.25rem;
+    }
+    .pub-authors strong {
+      color: #2c3e50;
+      font-weight: 600;
+    }
+    .pub-title {
+      font-weight: 500;
+      margin-bottom: 0.25rem;
+    }
+    .pub-journal {
+      font-style: italic;
+      color: #555;
+      margin-bottom: 0.25rem;
+    }
+    .pub-doi {
+      font-size: 0.85rem;
+      margin-top: 0.25rem;
+    }
+    .pub-doi a {
+      text-decoration: none;
+      background-color: #f0f0f0;
+      padding: 0.2rem 0.5rem;
+      border-radius: 3px;
+      font-family: monospace;
+      font-size: 0.8rem;
+    }
+    .pub-doi a:hover {
+      background-color: #2c3e50;
+      color: white;
+    }
+    .if-badge {
+      display: inline-block;
+      background-color: #e8f4f8;
+      color: #2c3e50;
+      font-size: 0.7rem;
+      padding: 0.2rem 0.5rem;
+      border-radius: 10px;
+      margin-left: 0.5rem;
+      font-weight: normal;
+    }
+  </style>
 </head>
 <body>
   <div class="container">
@@ -28,27 +85,71 @@
 
     <!-- Publications Content -->
     <h1>Publications & Research</h1>
+    <p><strong>Total: 23 journal publications</strong> <span class="if-badge">H-index: X</span></p>
     
-    <h2>Journal Publications (23 total)</h2>
+    <h2>Journal Publications</h2>
     
     <h3>Q1 Journals</h3>
-    <ul>
-      <li><strong>Fernando, A.J.</strong> (2026). Artificial intelligence techniques for microwave drying of agricultural products. <em>Applied Food Research</em>, 6(1), 101590.</li>
-      <li><strong>Fernando, A.J.</strong> & Rosentrater, K.A. (2023). Optimal designs of air-source heat pump dryers. <em>Food Engineering Reviews</em>, 15(2), 261–275.</li>
-      <li><strong>Fernando, A.J.</strong> & Amaratunga, K.S.P. (2022). Far-infrared radiation for chili pepper. <em>J Sci Food Agric</em>, 102(9), 3781–3787.</li>
+    <ul class="publication-list">
+      <li class="publication-item">
+        <div class="pub-title">Artificial intelligence techniques for microwave drying of agricultural products</div>
+        <div class="pub-authors"><strong>Fernando, A.J.</strong> (2026)</div>
+        <div class="pub-journal">Applied Food Research, 6(1), 101590 <span class="if-badge">IF: 6.2</span></div>
+        <div class="pub-doi"><a href="https://doi.org/10.1016/j.afres.2025.101590" target="_blank">📄 10.1016/j.afres.2025.101590</a></div>
+      </li>
+      
+      <li class="publication-item">
+        <div class="pub-title">Optimal designs of air-source heat pump dryers for agricultural applications</div>
+        <div class="pub-authors"><strong>Fernando, A.J.</strong> & Rosentrater, K.A. (2023)</div>
+        <div class="pub-journal">Food Engineering Reviews, 15(2), 261–275 <span class="if-badge">IF: 7.6</span></div>
+        <div class="pub-doi"><a href="https://doi.org/10.1007/s12393-023-09337-3" target="_blank">📄 10.1007/s12393-023-09337-3</a></div>
+      </li>
+      
+      <li class="publication-item">
+        <div class="pub-title">Far-infrared radiation for chili pepper drying: Kinetics and quality analysis</div>
+        <div class="pub-authors"><strong>Fernando, A.J.</strong> & Amaratunga, K.S.P. (2022)</div>
+        <div class="pub-journal">Journal of the Science of Food and Agriculture, 102(9), 3781–3787 <span class="if-badge">IF: 3.5</span></div>
+        <div class="pub-doi"><a href="https://doi.org/10.1002/jsfa.11726" target="_blank">📄 10.1002/jsfa.11726</a></div>
+      </li>
     </ul>
     
     <h3>Q2 Journals</h3>
-    <ul>
-      <li><strong>Fernando, A.J.</strong> & Rathnayake, R.M.S. (2025). Far-infrared drying of cassava. <em>Journal of the ASABE</em>, 68(5).</li>
-      <li><strong>Fernando, A.J.</strong>, Gunathunga, C., Brumm, T., & Amaratunga, S. (2021). Drying turmeric using far-infrared radiation. <em>Journal of Food Process Engineering</em>, 44(9).</li>
-      <li><strong>Fernando, A.J.</strong>, Amaratunga, K.S.P., Madushanka, H.T.N., & Jayaweera, H.R.Y.S. (2021). Drying performance of coffee. <em>J of the ASABE</em>, 64(4), 1237–1245.</li>
+    <ul class="publication-list">
+      <li class="publication-item">
+        <div class="pub-title">Far-infrared drying of cassava: Optimization of process parameters</div>
+        <div class="pub-authors"><strong>Fernando, A.J.</strong> & Rathnayake, R.M.S. (2025)</div>
+        <div class="pub-journal">Journal of the ASABE, 68(5) <span class="if-badge">IF: 1.0</span></div>
+        <div class="pub-doi"><a href="https://doi.org/10.13031/ja.16287" target="_blank">📄 10.13031/ja.16287</a></div>
+      </li>
+      
+      <li class="publication-item">
+        <div class="pub-title">Drying of turmeric using far-infrared radiation: Effects on curcumin content</div>
+        <div class="pub-authors"><strong>Fernando, A.J.</strong>, Gunathunga, C., Brumm, T., & Amaratunga, S. (2021)</div>
+        <div class="pub-journal">Journal of Food Process Engineering, 44(9) <span class="if-badge">IF: 2.9</span></div>
+        <div class="pub-doi"><a href="https://doi.org/10.1111/jfpe.13780" target="_blank">📄 10.1111/jfpe.13780</a></div>
+      </li>
+      
+      <li class="publication-item">
+        <div class="pub-title">Drying performance and quality of coffee beans under controlled conditions</div>
+        <div class="pub-authors"><strong>Fernando, A.J.</strong>, Amaratunga, K.S.P., Madushanka, H.T.N., & Jayaweera, H.R.Y.S. (2021)</div>
+        <div class="pub-journal">Journal of the ASABE, 64(4), 1237–1245 <span class="if-badge">IF: 1.0</span></div>
+        <div class="pub-doi"><a href="https://doi.org/10.13031/trans.14268" target="_blank">📄 10.13031/trans.14268</a></div>
+      </li>
     </ul>
     
     <h3>Book Chapter</h3>
-    <p><strong>Fernando, A.J.</strong> (2026). Technological Transitions in Thermal Drying. In: <em>IoT and AI in Agriculture</em>. Springer, pp. 311–341.</p>
+    <ul class="publication-list">
+      <li class="publication-item">
+        <div class="pub-title">Technological Transitions in Thermal Drying: From Traditional to AI-Enabled Systems</div>
+        <div class="pub-authors"><strong>Fernando, A.J.</strong> (2026)</div>
+        <div class="pub-journal">In: IoT and AI in Agriculture, Springer, pp. 311–341</div>
+      </li>
+    </ul>
     
-    <p><a href="https://scholar.google.com/citations?user=oKLbNdEAAAAJ" class="btn btn-outline-primary">🔗 View all on Google Scholar</a></p>
+    <hr>
+    <p style="text-align: center; margin-top: 2rem;">
+      <a href="https://scholar.google.com/citations?user=oKLbNdEAAAAJ" class="btn btn-outline-primary">🔗 View all on Google Scholar</a>
+    </p>
   </div>
 </body>
 </html>
